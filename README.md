@@ -1,6 +1,6 @@
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/3292efb4-d82b-463a-b01a-a1619fc7dee1)
 ### Hi there 👋, My name is Bornil
-#### CSE![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/3292efb4-d82b-463a-b01a-a1619fc7dee1)
- Engineer | Data Analyst | Building Smart Solutions with Code, Data, and Insight
+#### CSE Engineer | Data Analyst | Building Smart Solutions with Code, Data, and Insight
 Hi I'm Abrar Hameem Bornil, a Computer Science and Engineering graduate with a passion for solving real-world problems using data and intelligent systems. As a Data Analyst and aspiring Machine Learning Engineer, I enjoy turning raw data into meaningful insights and building smart solutions that can make a difference.
 
 🔍 I specialize in:
